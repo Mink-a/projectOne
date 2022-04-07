@@ -1,0 +1,36 @@
+/* HEADER SECTION */
+nav{
+    background-color: #313257;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+
+a{
+    text-decoration: none;
+    color: #eee;
+    padding: 0 1rem;
+}
+
+/* HERO SECTION */
+
+/* RAMDOM IMFORMATION SECTION */
+
+/* QUOTE SECTION */
+
+/* FOOTER SECTION */
