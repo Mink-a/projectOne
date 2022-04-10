@@ -56,3 +56,39 @@ nav .container{
   display: flex;
   gap: 1rem;
 }
+
+/* HEADER SECTION */
+.header {
+  background-color: #0151cc;
+  color: #fff;
+  min-height: 300px;
+}
+
+.header h1{
+  font-size: 3rem;
+  line-height: 1.2;
+}
+
+.header p{
+  padding: 2rem 0;
+  margin-bottom: 1rem;
+}
+
+.header .btn {
+  color: #0151cc;
+  background-color: #fff;
+  text-decoration: none;
+  padding: 0.7rem 1.3rem;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.header img{
+  max-width: 375px;
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
