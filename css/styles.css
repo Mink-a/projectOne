@@ -127,3 +127,16 @@ nav .container{
   margin: 2rem 0;
   padding: 1.5%;
 }
+
+/* QUOTE SECTION */
+.quote {
+  background-color: #fff;
+  color: #0265FE;
+  font-size: 2rem;
+  font-weight: normal;
+  padding: 0 0 5rem;
+}
+
+.quote .container div{
+  font-size: 4em;
+}
