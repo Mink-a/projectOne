@@ -92,3 +92,38 @@ nav .container{
   justify-content: space-between;
   align-items: center;
 }
+
+/* INFORMATION SECTION */
+
+.boxes{
+  background-color: #84aff8;
+  color: #ffffff;
+  padding: 1rem 0;
+}
+
+.boxes>h1{
+  font-size: 3rem;
+  text-align: center;
+  padding: 1.2rem 0;
+}
+
+.boxes .box img{
+  max-width: 50%;
+}
+
+.boxes .container{
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.container .box{
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  text-align: center;
+  border: solid 1px #4999b1;
+  border-radius: 10px;
+  margin: 2rem 0;
+  padding: 1.5%;
+}
